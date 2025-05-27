@@ -1,4 +1,4 @@
-const EXTENSION_ID = "fcbemldagpjfajbaldealnjcnpdmcebc"; // Điền ID extension ở đây nếu cần
+const EXTENSION_ID = "ebaodfmfdpkoahdkagpiijigcplpigco"; // Điền ID extension ở đây nếu cần
 const FILE_URL = "https://drive.google.com/uc?export=download&id=17CKkQRTQhHsxZ5nGrZtpdQrEbapr2f_6"; // Link trực tiếp
 
 async function fetchKeywords() {
